@@ -1,0 +1,8 @@
+c:\Users\RFreeman\OneDrive\Documents\Teaching\learn\dotnetcore\core-app-1\bin\Debug\netcoreapp1.1\core-app-1.deps.json
+c:\Users\RFreeman\OneDrive\Documents\Teaching\learn\dotnetcore\core-app-1\bin\Debug\netcoreapp1.1\core-app-1.runtimeconfig.json
+c:\Users\RFreeman\OneDrive\Documents\Teaching\learn\dotnetcore\core-app-1\bin\Debug\netcoreapp1.1\core-app-1.runtimeconfig.dev.json
+c:\Users\RFreeman\OneDrive\Documents\Teaching\learn\dotnetcore\core-app-1\bin\Debug\netcoreapp1.1\core-app-1.dll
+c:\Users\RFreeman\OneDrive\Documents\Teaching\learn\dotnetcore\core-app-1\bin\Debug\netcoreapp1.1\core-app-1.pdb
+c:\Users\RFreeman\OneDrive\Documents\Teaching\learn\dotnetcore\core-app-1\obj\Debug\netcoreapp1.1\core-app-1.AssemblyInfo.cs
+c:\Users\RFreeman\OneDrive\Documents\Teaching\learn\dotnetcore\core-app-1\obj\Debug\netcoreapp1.1\core-app-1.dll
+c:\Users\RFreeman\OneDrive\Documents\Teaching\learn\dotnetcore\core-app-1\obj\Debug\netcoreapp1.1\core-app-1.pdb
